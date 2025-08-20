@@ -1,3 +1,4 @@
+<?php // Add this code to html file for login template ?>
 <form class="wpcf7-form" action="" method="POST" id="login">
      <input type="hidden" name="action" value="ajax_login">
     <div class="login-msg">
